@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         <div className="container">
           <div className="card_area">
-            <h1 className="container_title">Back to your digital life</h1>
+            <h1 className="container_title">Back To Your digital life</h1>
             <p className="container_para">Choose one of the option to go</p>
             <div className="input_card">
               <TextField
